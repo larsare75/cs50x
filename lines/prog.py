@@ -1,0 +1,6 @@
+#faff
+
+linej 
+inkke
+
+linje
